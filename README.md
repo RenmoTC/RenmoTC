@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![@renmotc's Holopin board](https://holopin.me/renmotc)](https://holopin.io/@renmotc)
+[![@renmotc's Holopin board](https://holopin.me/renmotc)](Prathamesh Walawalkar)
 
 <!--
 **RenmoTC/RenmoTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

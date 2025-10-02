@@ -31,6 +31,11 @@
 
 [![@renmotc's Holopin board](https://holopin.me/renmotc)](https://holopin.me/@renmotc)
 
+📝 Publications
+Road Accident Analysis & Hotspot Prediction (Copyright Office, India)
+
+Olympics Sports Data Analysis (IRJET, 2023)
+
 <!--
 **RenmoTC/RenmoTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

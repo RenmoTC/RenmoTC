@@ -2,8 +2,12 @@
 
 **Data Scientist & Tech Enthusiast**
 
-🎓 Master's in Data Science at University of Guelph | Computer Engineering graduate from Mumbai
+🎓 Master's in Data Science at University of Guelph
+
+Computer Engineering graduate from Mumbai
+
 🌍 Based in Canada | Open to remote opportunities
+
 📧 pr.walawalkar@gmail.com
 
 <a href="https://www.linkedin.com/in/prathameshwalawalkar/" target="_blank">

@@ -31,7 +31,8 @@
 
 [![@renmotc's Holopin board](https://holopin.me/renmotc)](https://holopin.me/@renmotc)
 
-📝 Publications
+**📝 Publications**
+
 Road Accident Analysis & Hotspot Prediction (Copyright Office, India)
 
 Olympics Sports Data Analysis (IRJET, 2023)

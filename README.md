@@ -6,7 +6,11 @@
 🌍 Based in Canada | Open to remote opportunities
 📧 pr.walawalkar@gmail.com
 
-🚀 What I Do
+<a href="https://www.linkedin.com/in/prathameshwalawalkar/" target="_blank">
+  <img alt="LinkedIn Connect" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-CONNECT-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"/>
+</a>
+
+**🚀 What I Do**
 **Environmental Data Science & GIS Specialist**: Built interactive dashboards processing 120,000+ environmental records with AWS, Supabase, and geospatial visualizations
 
 **AI & Automation:** Developed video generation AI agents using n8n workflows, custom Replicate nodes, and Google VEO3 integration
